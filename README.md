@@ -18,3 +18,6 @@ https://t.me/zuiseng_bot
 ## 补充
 1. 多个资源库的开发未进行
 2. 分页显示没做
+## 截图
+![截图1](https://raw.githubusercontent.com/zuiseng/telegram-bot-php-demo/master/1.jpg)
+![截图2](https://raw.githubusercontent.com/zuiseng/telegram-bot-php-demo/master/2.jpg)
